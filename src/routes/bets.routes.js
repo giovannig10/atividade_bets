@@ -97,8 +97,8 @@ suspeitosRoutes.put("/:id", (req, res) => {
 
   suspeito.nome = nome;
   suspeito.profissao = profissao;
-  candidato.envolvimento = envolvimento;
-  candidato.nivel = nivel;
+  suspeito.envolvimento = envolvimento;
+  suspeito.nivel = nivel;
 
   return res.status(200).json({
     message: "Suspeito atualizado com sucesso!",
