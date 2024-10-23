@@ -58,7 +58,7 @@
 
 ### **Resumo da Avaliação**
 
-- **Pontuação Total Obtida: 100/100**
+- **Pontuação Total Obtida: 83/100**
 - **Observações Gerais**:
   - O projeto foi desenvolvido de forma correta, atendendo a todos os requisitos propostos.
   - A validação dos dados no método PUT ficou incompleta.
